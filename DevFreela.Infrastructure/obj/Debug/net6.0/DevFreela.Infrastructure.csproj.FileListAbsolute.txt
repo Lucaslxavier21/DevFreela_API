@@ -1,0 +1,17 @@
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.deps.json
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.dll
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.pdb
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Core.dll
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Core.pdb
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.csproj.CopyComplete
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.dll
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\refint\DevFreela.Infrastructure.dll
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.pdb
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\ref\DevFreela.Infrastructure.dll
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.runtimeconfig.json
+C:\Users\Lucas\Desktop\projetosPessoais\DevFreela\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.genruntimeconfig.cache
